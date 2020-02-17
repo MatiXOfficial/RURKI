@@ -1,4 +1,4 @@
 # RURKI
-Semestr 3 - Równania różniczkowe i różnicowe
+Term 3 - Differential equations
 
-Projekt - równanie przepływu ciepła
+Project - heat flow equation
