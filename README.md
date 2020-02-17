@@ -1,4 +1,4 @@
 # RURKI
-Term 3 - Differential equations
+Term 3 - Differential Equations
 
 Project - heat flow equation
